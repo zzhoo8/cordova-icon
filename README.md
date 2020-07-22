@@ -36,7 +36,7 @@ source venv/bin/activate
 ```
 
 ```bash
-(venv) ➜  cordova-icon git:(develop) ✗ python3.6 run.py
+(venv) ➜  cordova-icon git:(develop) ✗ python3 run.py
 start!
 done!
 ```
